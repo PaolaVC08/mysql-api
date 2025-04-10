@@ -1,5 +1,4 @@
 name: Deploy mysql api
-
 on:
   push:
     branches: ["master"]
